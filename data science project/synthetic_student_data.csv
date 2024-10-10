@@ -1,0 +1,1001 @@
+student_id,age,gender,major,year,region
+1,22,Female,Electrical Engineering,1,Gujarat
+2,24,Male,Civil Engineering,3,Kerala
+3,18,Male,Environmental Science,1,Kerala
+4,20,Female,Biology,1,Madhya Pradesh
+5,18,Male,Mechanical Engineering,2,Gujarat
+6,18,Female,Civil Engineering,3,Maharashtra
+7,18,Male,Chemistry,2,West Bengal
+8,23,Female,Biology,4,Madhya Pradesh
+9,22,Male,Mathematics,2,Tamil Nadu
+10,21,Male,Chemistry,2,West Bengal
+11,21,Male,Economics,2,Madhya Pradesh
+12,23,Male,Computer Science,3,Rajasthan
+13,24,Female,Civil Engineering,4,Gujarat
+14,18,Female,Computer Science,3,Madhya Pradesh
+15,18,Female,Physics,2,Madhya Pradesh
+16,21,Female,Computer Science,1,Maharashtra
+17,18,Male,Computer Science,2,West Bengal
+18,24,Female,Computer Science,2,Karnataka
+19,24,Male,Chemistry,4,Gujarat
+20,21,Male,Chemistry,1,Uttar Pradesh
+21,21,Female,Biology,2,Kerala
+22,23,Male,Civil Engineering,1,Gujarat
+23,18,Female,Environmental Science,4,Maharashtra
+24,21,Female,Biology,3,Rajasthan
+25,18,Male,Biology,3,Tamil Nadu
+26,22,Male,Biology,2,Maharashtra
+27,22,Female,Physics,3,Rajasthan
+28,20,Male,Environmental Science,1,West Bengal
+29,23,Male,Economics,3,Delhi
+30,20,Female,Physics,2,Karnataka
+31,19,Female,Mechanical Engineering,4,Maharashtra
+32,24,Female,Physics,4,Delhi
+33,21,Male,Civil Engineering,1,Tamil Nadu
+34,18,Female,Physics,3,Rajasthan
+35,24,Male,Mathematics,3,Rajasthan
+36,23,Male,Mechanical Engineering,3,Uttar Pradesh
+37,23,Male,Civil Engineering,1,Kerala
+38,24,Male,Mechanical Engineering,2,Uttar Pradesh
+39,23,Female,Biology,1,Delhi
+40,21,Male,Physics,3,Tamil Nadu
+41,22,Male,Electrical Engineering,2,Uttar Pradesh
+42,20,Male,Economics,1,Delhi
+43,21,Female,Chemistry,1,Tamil Nadu
+44,19,Female,Environmental Science,2,Gujarat
+45,20,Male,Environmental Science,4,Rajasthan
+46,25,Female,Civil Engineering,4,Kerala
+47,20,Female,Computer Science,1,Maharashtra
+48,22,Male,Computer Science,1,Tamil Nadu
+49,22,Male,Environmental Science,3,Uttar Pradesh
+50,21,Female,Environmental Science,3,West Bengal
+51,18,Female,Chemistry,3,Tamil Nadu
+52,19,Male,Physics,3,Delhi
+53,19,Male,Environmental Science,3,Gujarat
+54,20,Male,Chemistry,3,West Bengal
+55,23,Female,Electrical Engineering,1,Kerala
+56,19,Male,Computer Science,1,Tamil Nadu
+57,25,Male,Biology,3,Uttar Pradesh
+58,20,Male,Mathematics,2,Gujarat
+59,24,Male,Computer Science,3,Delhi
+60,25,Female,Civil Engineering,1,Tamil Nadu
+61,22,Male,Environmental Science,1,Karnataka
+62,22,Female,Computer Science,2,West Bengal
+63,18,Male,Chemistry,4,Delhi
+64,18,Male,Mathematics,4,Karnataka
+65,20,Female,Electrical Engineering,3,Uttar Pradesh
+66,21,Female,Economics,4,West Bengal
+67,24,Male,Chemistry,2,West Bengal
+68,19,Male,Environmental Science,4,Gujarat
+69,24,Female,Computer Science,4,Tamil Nadu
+70,23,Male,Environmental Science,2,Gujarat
+71,25,Male,Civil Engineering,4,Kerala
+72,19,Male,Mathematics,2,West Bengal
+73,20,Female,Mechanical Engineering,3,Maharashtra
+74,20,Female,Mathematics,4,West Bengal
+75,25,Female,Environmental Science,3,Uttar Pradesh
+76,23,Male,Chemistry,3,Karnataka
+77,19,Male,Economics,3,West Bengal
+78,18,Male,Physics,3,Tamil Nadu
+79,25,Male,Mechanical Engineering,3,West Bengal
+80,24,Female,Mathematics,1,Madhya Pradesh
+81,20,Female,Physics,2,Kerala
+82,24,Male,Mechanical Engineering,2,Gujarat
+83,22,Male,Biology,3,Delhi
+84,22,Female,Chemistry,2,Uttar Pradesh
+85,21,Female,Chemistry,4,Gujarat
+86,19,Female,Computer Science,4,West Bengal
+87,21,Female,Physics,4,Karnataka
+88,21,Female,Chemistry,2,Maharashtra
+89,23,Female,Civil Engineering,1,Karnataka
+90,18,Female,Chemistry,4,Gujarat
+91,20,Male,Biology,2,West Bengal
+92,19,Female,Electrical Engineering,4,Rajasthan
+93,23,Male,Biology,1,Madhya Pradesh
+94,21,Male,Physics,4,Maharashtra
+95,22,Male,Chemistry,3,Tamil Nadu
+96,20,Male,Mathematics,4,Tamil Nadu
+97,25,Male,Civil Engineering,2,Karnataka
+98,21,Male,Mechanical Engineering,2,Karnataka
+99,18,Male,Civil Engineering,1,Karnataka
+100,25,Male,Chemistry,2,West Bengal
+101,18,Male,Physics,1,Kerala
+102,21,Male,Biology,1,Rajasthan
+103,19,Male,Chemistry,4,West Bengal
+104,24,Male,Economics,3,Maharashtra
+105,20,Male,Economics,2,Uttar Pradesh
+106,20,Female,Mathematics,3,Delhi
+107,23,Male,Environmental Science,1,Tamil Nadu
+108,21,Female,Civil Engineering,1,Maharashtra
+109,25,Male,Environmental Science,1,Madhya Pradesh
+110,24,Male,Biology,4,Rajasthan
+111,21,Female,Physics,1,Gujarat
+112,18,Female,Electrical Engineering,3,Gujarat
+113,24,Male,Economics,3,Uttar Pradesh
+114,19,Male,Physics,3,Gujarat
+115,19,Female,Civil Engineering,2,Gujarat
+116,20,Male,Mathematics,2,Karnataka
+117,19,Female,Economics,1,Kerala
+118,24,Female,Computer Science,3,Tamil Nadu
+119,24,Male,Electrical Engineering,4,Karnataka
+120,23,Male,Mechanical Engineering,3,West Bengal
+121,21,Male,Biology,1,Karnataka
+122,21,Female,Biology,4,West Bengal
+123,23,Male,Chemistry,4,Gujarat
+124,20,Male,Biology,1,Delhi
+125,22,Female,Mechanical Engineering,1,West Bengal
+126,20,Male,Chemistry,3,Delhi
+127,25,Male,Chemistry,3,Karnataka
+128,19,Male,Economics,4,Delhi
+129,25,Female,Economics,2,Madhya Pradesh
+130,23,Female,Biology,3,Tamil Nadu
+131,21,Male,Mechanical Engineering,3,Gujarat
+132,25,Male,Biology,2,Madhya Pradesh
+133,24,Female,Environmental Science,4,West Bengal
+134,23,Female,Economics,1,Karnataka
+135,19,Male,Mechanical Engineering,1,Gujarat
+136,25,Female,Electrical Engineering,4,Madhya Pradesh
+137,24,Male,Chemistry,1,Rajasthan
+138,25,Female,Environmental Science,1,Tamil Nadu
+139,22,Male,Electrical Engineering,4,Madhya Pradesh
+140,24,Female,Mathematics,1,Delhi
+141,24,Female,Electrical Engineering,2,Madhya Pradesh
+142,23,Female,Computer Science,4,Maharashtra
+143,18,Female,Mathematics,1,Karnataka
+144,20,Male,Civil Engineering,4,Kerala
+145,24,Male,Civil Engineering,4,Uttar Pradesh
+146,24,Male,Physics,2,Tamil Nadu
+147,19,Female,Mechanical Engineering,1,Delhi
+148,19,Male,Biology,1,Uttar Pradesh
+149,22,Female,Electrical Engineering,2,Uttar Pradesh
+150,18,Female,Environmental Science,4,Maharashtra
+151,23,Male,Electrical Engineering,2,Rajasthan
+152,23,Male,Environmental Science,4,Kerala
+153,25,Female,Mechanical Engineering,2,Tamil Nadu
+154,19,Female,Chemistry,4,West Bengal
+155,23,Male,Mechanical Engineering,1,Uttar Pradesh
+156,21,Female,Computer Science,2,Gujarat
+157,25,Male,Environmental Science,4,Karnataka
+158,22,Male,Computer Science,4,Delhi
+159,18,Female,Mathematics,1,Karnataka
+160,21,Male,Physics,2,Delhi
+161,21,Female,Computer Science,2,Karnataka
+162,21,Male,Mathematics,2,Gujarat
+163,19,Female,Civil Engineering,3,Gujarat
+164,21,Female,Environmental Science,3,West Bengal
+165,23,Male,Civil Engineering,3,Maharashtra
+166,24,Female,Electrical Engineering,3,Delhi
+167,20,Male,Chemistry,2,Delhi
+168,25,Female,Electrical Engineering,4,Kerala
+169,24,Female,Environmental Science,4,Tamil Nadu
+170,24,Male,Environmental Science,3,Tamil Nadu
+171,24,Female,Economics,2,Maharashtra
+172,19,Female,Mathematics,4,Rajasthan
+173,22,Female,Biology,3,Maharashtra
+174,18,Female,Biology,4,Madhya Pradesh
+175,20,Male,Civil Engineering,3,West Bengal
+176,23,Male,Computer Science,3,Kerala
+177,20,Male,Environmental Science,1,Uttar Pradesh
+178,20,Male,Computer Science,2,Uttar Pradesh
+179,25,Male,Environmental Science,4,Kerala
+180,23,Male,Computer Science,2,Gujarat
+181,21,Female,Mathematics,2,Madhya Pradesh
+182,23,Male,Mechanical Engineering,3,Karnataka
+183,20,Female,Electrical Engineering,1,Delhi
+184,22,Female,Computer Science,1,Tamil Nadu
+185,23,Male,Civil Engineering,2,Gujarat
+186,20,Male,Civil Engineering,1,Tamil Nadu
+187,21,Male,Chemistry,1,Delhi
+188,19,Male,Biology,1,Tamil Nadu
+189,25,Female,Computer Science,2,Gujarat
+190,23,Female,Environmental Science,1,Madhya Pradesh
+191,19,Male,Economics,4,Kerala
+192,18,Female,Computer Science,4,Tamil Nadu
+193,18,Female,Electrical Engineering,3,Rajasthan
+194,25,Male,Electrical Engineering,3,Uttar Pradesh
+195,21,Male,Environmental Science,1,Delhi
+196,20,Female,Environmental Science,4,Maharashtra
+197,18,Female,Biology,4,Rajasthan
+198,24,Female,Civil Engineering,3,Maharashtra
+199,25,Male,Civil Engineering,1,West Bengal
+200,25,Male,Economics,4,Maharashtra
+201,22,Male,Economics,4,Madhya Pradesh
+202,24,Male,Biology,2,Kerala
+203,18,Female,Mathematics,3,Kerala
+204,24,Male,Mathematics,4,Kerala
+205,19,Male,Physics,3,Maharashtra
+206,22,Male,Chemistry,1,Kerala
+207,18,Female,Computer Science,1,Kerala
+208,18,Male,Mechanical Engineering,3,Madhya Pradesh
+209,19,Female,Computer Science,4,Maharashtra
+210,25,Female,Economics,3,Karnataka
+211,25,Female,Environmental Science,1,Rajasthan
+212,20,Male,Physics,2,Uttar Pradesh
+213,18,Female,Physics,2,Gujarat
+214,23,Female,Computer Science,1,Rajasthan
+215,19,Female,Mathematics,1,Rajasthan
+216,22,Male,Chemistry,1,Rajasthan
+217,18,Female,Civil Engineering,1,West Bengal
+218,22,Male,Computer Science,3,West Bengal
+219,25,Male,Physics,2,Uttar Pradesh
+220,18,Male,Mechanical Engineering,3,Tamil Nadu
+221,20,Female,Biology,1,Madhya Pradesh
+222,20,Male,Biology,3,Tamil Nadu
+223,20,Female,Physics,1,Rajasthan
+224,21,Male,Biology,4,Gujarat
+225,22,Male,Economics,4,West Bengal
+226,24,Male,Physics,3,Rajasthan
+227,24,Male,Environmental Science,4,Maharashtra
+228,20,Male,Mechanical Engineering,2,Delhi
+229,18,Female,Electrical Engineering,1,Karnataka
+230,18,Female,Biology,3,Tamil Nadu
+231,25,Female,Mechanical Engineering,2,West Bengal
+232,24,Female,Civil Engineering,1,Kerala
+233,21,Female,Biology,3,Uttar Pradesh
+234,20,Female,Economics,4,Gujarat
+235,20,Female,Civil Engineering,3,Madhya Pradesh
+236,20,Female,Computer Science,2,West Bengal
+237,21,Male,Mechanical Engineering,3,Gujarat
+238,20,Male,Civil Engineering,1,Uttar Pradesh
+239,20,Female,Environmental Science,2,Tamil Nadu
+240,21,Female,Computer Science,1,Rajasthan
+241,24,Female,Environmental Science,3,Madhya Pradesh
+242,20,Male,Mathematics,1,Uttar Pradesh
+243,23,Female,Computer Science,3,Delhi
+244,20,Female,Physics,1,Kerala
+245,20,Female,Mechanical Engineering,1,Karnataka
+246,23,Male,Economics,2,Madhya Pradesh
+247,24,Female,Biology,3,Tamil Nadu
+248,25,Male,Electrical Engineering,1,Uttar Pradesh
+249,23,Male,Environmental Science,2,Tamil Nadu
+250,18,Female,Environmental Science,4,Maharashtra
+251,24,Male,Economics,1,Gujarat
+252,19,Male,Computer Science,1,Kerala
+253,23,Male,Mechanical Engineering,2,West Bengal
+254,25,Female,Biology,4,West Bengal
+255,24,Female,Environmental Science,2,Gujarat
+256,20,Male,Biology,3,Maharashtra
+257,18,Female,Biology,4,Rajasthan
+258,25,Female,Chemistry,2,Maharashtra
+259,23,Male,Civil Engineering,4,Karnataka
+260,19,Female,Mechanical Engineering,1,Uttar Pradesh
+261,20,Male,Physics,4,Karnataka
+262,22,Male,Mathematics,3,West Bengal
+263,20,Female,Chemistry,4,Madhya Pradesh
+264,24,Male,Mechanical Engineering,3,Rajasthan
+265,25,Male,Biology,1,Uttar Pradesh
+266,25,Female,Computer Science,4,West Bengal
+267,18,Male,Economics,4,Gujarat
+268,23,Male,Mathematics,2,Uttar Pradesh
+269,19,Female,Chemistry,1,West Bengal
+270,20,Female,Biology,3,Kerala
+271,20,Male,Chemistry,4,Kerala
+272,23,Female,Chemistry,1,Rajasthan
+273,19,Male,Computer Science,1,Madhya Pradesh
+274,24,Female,Civil Engineering,1,Rajasthan
+275,21,Female,Chemistry,2,Tamil Nadu
+276,19,Male,Civil Engineering,2,Delhi
+277,22,Female,Computer Science,4,West Bengal
+278,24,Male,Mathematics,2,West Bengal
+279,18,Male,Environmental Science,4,Karnataka
+280,19,Male,Civil Engineering,1,Maharashtra
+281,24,Male,Biology,1,Karnataka
+282,19,Female,Chemistry,1,Maharashtra
+283,21,Male,Civil Engineering,3,Kerala
+284,23,Male,Mechanical Engineering,2,Madhya Pradesh
+285,21,Female,Environmental Science,1,Madhya Pradesh
+286,20,Female,Computer Science,4,Madhya Pradesh
+287,25,Male,Environmental Science,2,Maharashtra
+288,20,Male,Chemistry,1,Rajasthan
+289,18,Male,Mathematics,3,Gujarat
+290,22,Male,Computer Science,4,West Bengal
+291,21,Male,Mathematics,4,West Bengal
+292,23,Female,Chemistry,1,Delhi
+293,22,Male,Computer Science,2,Uttar Pradesh
+294,20,Male,Biology,3,Kerala
+295,20,Female,Environmental Science,3,Delhi
+296,23,Female,Environmental Science,1,Kerala
+297,19,Female,Mathematics,2,Karnataka
+298,21,Female,Computer Science,1,Kerala
+299,25,Male,Civil Engineering,4,Uttar Pradesh
+300,20,Male,Mechanical Engineering,4,Maharashtra
+301,22,Male,Civil Engineering,1,Uttar Pradesh
+302,23,Male,Chemistry,4,Gujarat
+303,20,Male,Physics,4,Maharashtra
+304,23,Female,Chemistry,2,Rajasthan
+305,23,Female,Civil Engineering,4,Tamil Nadu
+306,22,Female,Mathematics,4,Uttar Pradesh
+307,19,Female,Chemistry,3,Kerala
+308,22,Female,Chemistry,4,Maharashtra
+309,22,Female,Mathematics,4,Maharashtra
+310,18,Female,Chemistry,3,Madhya Pradesh
+311,18,Male,Computer Science,4,West Bengal
+312,23,Male,Biology,2,West Bengal
+313,25,Female,Mechanical Engineering,3,Gujarat
+314,24,Female,Environmental Science,2,Tamil Nadu
+315,18,Female,Chemistry,3,Kerala
+316,19,Male,Economics,4,Kerala
+317,19,Female,Mathematics,2,Delhi
+318,25,Male,Environmental Science,4,Uttar Pradesh
+319,18,Female,Civil Engineering,2,Maharashtra
+320,23,Male,Physics,4,Delhi
+321,23,Male,Biology,2,Maharashtra
+322,20,Male,Biology,2,Delhi
+323,19,Male,Economics,2,Uttar Pradesh
+324,24,Female,Electrical Engineering,3,Madhya Pradesh
+325,20,Female,Electrical Engineering,3,Maharashtra
+326,23,Male,Physics,1,Delhi
+327,18,Male,Civil Engineering,4,Karnataka
+328,25,Female,Physics,4,Madhya Pradesh
+329,19,Female,Mathematics,2,Tamil Nadu
+330,23,Female,Environmental Science,4,Madhya Pradesh
+331,21,Female,Mathematics,3,Karnataka
+332,22,Female,Civil Engineering,1,Tamil Nadu
+333,19,Male,Computer Science,3,Karnataka
+334,20,Male,Civil Engineering,1,Uttar Pradesh
+335,25,Male,Economics,4,West Bengal
+336,25,Female,Environmental Science,3,Kerala
+337,19,Female,Mechanical Engineering,1,Madhya Pradesh
+338,19,Male,Computer Science,3,Delhi
+339,19,Male,Chemistry,1,Madhya Pradesh
+340,25,Male,Electrical Engineering,3,Tamil Nadu
+341,22,Male,Electrical Engineering,2,Kerala
+342,18,Male,Economics,4,Gujarat
+343,20,Male,Mathematics,3,Maharashtra
+344,24,Female,Mechanical Engineering,3,Gujarat
+345,19,Female,Economics,1,Rajasthan
+346,22,Male,Computer Science,1,Uttar Pradesh
+347,24,Male,Mechanical Engineering,2,Maharashtra
+348,22,Female,Economics,4,Rajasthan
+349,19,Male,Environmental Science,4,Delhi
+350,21,Male,Civil Engineering,2,Delhi
+351,19,Male,Environmental Science,2,Gujarat
+352,21,Female,Environmental Science,3,Karnataka
+353,24,Female,Mechanical Engineering,2,Karnataka
+354,23,Female,Environmental Science,1,Karnataka
+355,18,Male,Civil Engineering,1,Maharashtra
+356,21,Female,Computer Science,2,Maharashtra
+357,19,Male,Electrical Engineering,2,Tamil Nadu
+358,23,Male,Mechanical Engineering,1,Gujarat
+359,21,Female,Environmental Science,4,Karnataka
+360,22,Male,Physics,4,Tamil Nadu
+361,19,Male,Economics,1,Uttar Pradesh
+362,18,Female,Economics,1,Delhi
+363,25,Male,Environmental Science,2,Rajasthan
+364,23,Female,Mechanical Engineering,1,Tamil Nadu
+365,25,Male,Mathematics,3,Kerala
+366,24,Female,Chemistry,3,Uttar Pradesh
+367,18,Female,Computer Science,3,Kerala
+368,21,Female,Economics,2,Uttar Pradesh
+369,21,Male,Environmental Science,3,Delhi
+370,23,Male,Economics,4,Karnataka
+371,21,Male,Economics,1,Tamil Nadu
+372,24,Male,Chemistry,2,Madhya Pradesh
+373,24,Male,Mathematics,2,Gujarat
+374,18,Female,Mathematics,2,Maharashtra
+375,18,Male,Biology,1,Rajasthan
+376,18,Male,Electrical Engineering,2,West Bengal
+377,21,Male,Mechanical Engineering,4,Rajasthan
+378,25,Male,Environmental Science,4,Rajasthan
+379,21,Female,Environmental Science,1,Rajasthan
+380,19,Female,Environmental Science,4,West Bengal
+381,18,Male,Mechanical Engineering,2,Tamil Nadu
+382,18,Male,Chemistry,3,Tamil Nadu
+383,23,Female,Civil Engineering,2,Karnataka
+384,25,Female,Mathematics,4,Tamil Nadu
+385,21,Male,Economics,2,Rajasthan
+386,21,Male,Mathematics,1,Madhya Pradesh
+387,18,Female,Chemistry,3,Rajasthan
+388,19,Female,Chemistry,1,Madhya Pradesh
+389,19,Female,Biology,4,Maharashtra
+390,23,Male,Civil Engineering,2,West Bengal
+391,18,Female,Mechanical Engineering,2,Madhya Pradesh
+392,22,Female,Civil Engineering,4,Tamil Nadu
+393,25,Female,Civil Engineering,3,Kerala
+394,18,Male,Physics,1,West Bengal
+395,23,Male,Electrical Engineering,3,Uttar Pradesh
+396,21,Male,Economics,3,Tamil Nadu
+397,21,Female,Physics,4,Tamil Nadu
+398,19,Male,Mechanical Engineering,2,Maharashtra
+399,19,Male,Chemistry,2,West Bengal
+400,21,Male,Mechanical Engineering,3,Uttar Pradesh
+401,20,Male,Biology,1,Gujarat
+402,21,Female,Mechanical Engineering,4,West Bengal
+403,24,Female,Civil Engineering,2,Madhya Pradesh
+404,20,Female,Civil Engineering,3,Uttar Pradesh
+405,20,Male,Mathematics,3,Maharashtra
+406,20,Male,Computer Science,2,Tamil Nadu
+407,20,Female,Civil Engineering,3,Tamil Nadu
+408,21,Female,Chemistry,2,Gujarat
+409,19,Female,Economics,3,Rajasthan
+410,21,Male,Mechanical Engineering,1,Gujarat
+411,20,Male,Mathematics,3,Maharashtra
+412,25,Male,Computer Science,1,Madhya Pradesh
+413,24,Female,Biology,1,West Bengal
+414,20,Female,Civil Engineering,2,Delhi
+415,18,Male,Civil Engineering,2,Tamil Nadu
+416,24,Male,Computer Science,2,Rajasthan
+417,25,Male,Environmental Science,3,Tamil Nadu
+418,23,Female,Biology,3,Madhya Pradesh
+419,19,Female,Mechanical Engineering,2,Maharashtra
+420,18,Male,Physics,2,Madhya Pradesh
+421,25,Male,Computer Science,2,Madhya Pradesh
+422,20,Female,Environmental Science,4,Tamil Nadu
+423,19,Male,Physics,4,Karnataka
+424,23,Female,Chemistry,3,Karnataka
+425,22,Male,Economics,1,Madhya Pradesh
+426,22,Female,Physics,3,Uttar Pradesh
+427,25,Male,Mathematics,2,Rajasthan
+428,25,Female,Civil Engineering,3,Uttar Pradesh
+429,22,Male,Physics,4,Uttar Pradesh
+430,23,Female,Economics,3,Karnataka
+431,22,Male,Mechanical Engineering,1,Delhi
+432,21,Male,Biology,2,Kerala
+433,21,Female,Electrical Engineering,4,Gujarat
+434,24,Female,Environmental Science,2,Madhya Pradesh
+435,24,Female,Biology,4,Karnataka
+436,19,Female,Civil Engineering,2,Tamil Nadu
+437,24,Male,Electrical Engineering,1,Uttar Pradesh
+438,18,Female,Computer Science,3,Karnataka
+439,24,Male,Chemistry,3,Maharashtra
+440,22,Female,Economics,3,Delhi
+441,22,Male,Chemistry,2,Delhi
+442,23,Male,Environmental Science,1,Gujarat
+443,21,Female,Electrical Engineering,3,Maharashtra
+444,19,Female,Mechanical Engineering,1,Maharashtra
+445,25,Female,Biology,4,Karnataka
+446,21,Male,Mathematics,4,Delhi
+447,18,Female,Mathematics,3,Tamil Nadu
+448,25,Female,Economics,2,Madhya Pradesh
+449,23,Female,Physics,2,Gujarat
+450,24,Female,Environmental Science,1,Gujarat
+451,20,Male,Economics,2,Madhya Pradesh
+452,19,Male,Economics,1,Rajasthan
+453,23,Male,Biology,1,Rajasthan
+454,22,Female,Environmental Science,3,West Bengal
+455,19,Male,Civil Engineering,1,Kerala
+456,21,Male,Computer Science,4,Rajasthan
+457,23,Male,Economics,3,Uttar Pradesh
+458,21,Male,Electrical Engineering,2,Kerala
+459,21,Male,Environmental Science,3,Kerala
+460,19,Female,Mechanical Engineering,2,Gujarat
+461,25,Female,Chemistry,4,Delhi
+462,20,Male,Physics,1,Maharashtra
+463,21,Female,Economics,3,Madhya Pradesh
+464,22,Male,Economics,1,Karnataka
+465,25,Female,Civil Engineering,4,Delhi
+466,24,Female,Biology,1,Uttar Pradesh
+467,18,Male,Environmental Science,1,Tamil Nadu
+468,18,Male,Computer Science,3,Maharashtra
+469,21,Female,Computer Science,3,Karnataka
+470,19,Female,Computer Science,2,Tamil Nadu
+471,18,Male,Computer Science,4,West Bengal
+472,20,Male,Economics,3,Gujarat
+473,25,Male,Mechanical Engineering,2,Rajasthan
+474,20,Female,Biology,2,Gujarat
+475,23,Male,Physics,1,West Bengal
+476,18,Female,Environmental Science,2,Maharashtra
+477,22,Male,Chemistry,3,Tamil Nadu
+478,21,Female,Chemistry,1,Madhya Pradesh
+479,21,Male,Physics,4,Madhya Pradesh
+480,23,Female,Economics,3,Tamil Nadu
+481,23,Male,Biology,4,Tamil Nadu
+482,20,Female,Electrical Engineering,3,Madhya Pradesh
+483,21,Female,Mathematics,4,Maharashtra
+484,20,Female,Mechanical Engineering,4,Tamil Nadu
+485,23,Female,Chemistry,1,West Bengal
+486,20,Male,Economics,1,West Bengal
+487,25,Male,Mathematics,3,West Bengal
+488,22,Male,Computer Science,2,Karnataka
+489,24,Female,Computer Science,1,West Bengal
+490,23,Female,Mathematics,3,Maharashtra
+491,25,Male,Environmental Science,3,Uttar Pradesh
+492,18,Female,Electrical Engineering,1,Uttar Pradesh
+493,23,Male,Environmental Science,1,Rajasthan
+494,24,Male,Chemistry,3,Delhi
+495,23,Male,Environmental Science,2,Gujarat
+496,18,Male,Civil Engineering,1,Gujarat
+497,25,Female,Economics,4,Karnataka
+498,21,Male,Computer Science,2,Delhi
+499,24,Male,Mechanical Engineering,3,Delhi
+500,22,Male,Chemistry,1,Madhya Pradesh
+501,18,Female,Civil Engineering,3,Karnataka
+502,25,Female,Electrical Engineering,4,Kerala
+503,21,Female,Computer Science,1,Madhya Pradesh
+504,21,Male,Mechanical Engineering,2,Rajasthan
+505,24,Female,Electrical Engineering,2,Kerala
+506,24,Male,Physics,2,Delhi
+507,24,Male,Physics,1,Maharashtra
+508,19,Male,Biology,3,Rajasthan
+509,23,Male,Physics,2,Maharashtra
+510,20,Male,Environmental Science,2,Rajasthan
+511,21,Male,Electrical Engineering,1,Tamil Nadu
+512,21,Female,Biology,2,West Bengal
+513,24,Male,Civil Engineering,1,Gujarat
+514,22,Male,Mathematics,2,Gujarat
+515,21,Female,Civil Engineering,4,Delhi
+516,23,Male,Electrical Engineering,3,Gujarat
+517,22,Male,Economics,2,Madhya Pradesh
+518,22,Female,Biology,1,Karnataka
+519,23,Female,Environmental Science,1,Tamil Nadu
+520,21,Male,Electrical Engineering,1,Delhi
+521,22,Male,Mechanical Engineering,2,Maharashtra
+522,21,Male,Civil Engineering,1,Delhi
+523,23,Female,Economics,1,Kerala
+524,23,Male,Mathematics,3,Delhi
+525,20,Female,Economics,4,Madhya Pradesh
+526,23,Male,Mathematics,2,Gujarat
+527,18,Female,Economics,4,Tamil Nadu
+528,24,Male,Physics,3,Madhya Pradesh
+529,23,Male,Mathematics,4,Gujarat
+530,18,Female,Chemistry,2,Uttar Pradesh
+531,18,Male,Chemistry,1,Rajasthan
+532,19,Male,Biology,3,Tamil Nadu
+533,24,Female,Physics,3,Rajasthan
+534,25,Female,Economics,3,Rajasthan
+535,24,Male,Mathematics,1,Madhya Pradesh
+536,21,Male,Mathematics,2,Delhi
+537,20,Male,Biology,1,Kerala
+538,21,Male,Computer Science,1,Maharashtra
+539,19,Male,Physics,1,West Bengal
+540,19,Female,Mathematics,1,West Bengal
+541,23,Male,Physics,4,Delhi
+542,20,Female,Electrical Engineering,4,Uttar Pradesh
+543,20,Female,Physics,4,Delhi
+544,24,Male,Physics,3,Rajasthan
+545,19,Female,Chemistry,4,Gujarat
+546,21,Male,Economics,3,Delhi
+547,21,Female,Environmental Science,1,Kerala
+548,20,Female,Environmental Science,2,Delhi
+549,24,Female,Biology,3,Uttar Pradesh
+550,19,Female,Computer Science,2,Kerala
+551,22,Female,Environmental Science,2,Delhi
+552,20,Male,Physics,4,West Bengal
+553,19,Female,Biology,3,Madhya Pradesh
+554,24,Male,Physics,1,West Bengal
+555,21,Male,Economics,3,West Bengal
+556,20,Female,Economics,3,Rajasthan
+557,21,Female,Physics,4,Delhi
+558,21,Male,Chemistry,4,Rajasthan
+559,19,Female,Economics,3,West Bengal
+560,20,Male,Electrical Engineering,4,Rajasthan
+561,21,Female,Computer Science,4,Uttar Pradesh
+562,18,Female,Civil Engineering,3,Rajasthan
+563,25,Male,Computer Science,4,Madhya Pradesh
+564,23,Female,Environmental Science,3,Delhi
+565,19,Male,Physics,4,Delhi
+566,18,Female,Electrical Engineering,1,Kerala
+567,24,Female,Civil Engineering,2,Delhi
+568,20,Male,Environmental Science,1,Uttar Pradesh
+569,24,Male,Mathematics,1,Rajasthan
+570,22,Male,Chemistry,1,Karnataka
+571,20,Male,Physics,4,Rajasthan
+572,18,Male,Civil Engineering,1,Rajasthan
+573,18,Female,Economics,3,Uttar Pradesh
+574,25,Male,Environmental Science,2,Tamil Nadu
+575,19,Female,Chemistry,3,Madhya Pradesh
+576,23,Female,Computer Science,3,Tamil Nadu
+577,21,Female,Environmental Science,4,Delhi
+578,20,Female,Chemistry,3,Tamil Nadu
+579,22,Female,Mathematics,1,Tamil Nadu
+580,22,Male,Environmental Science,2,West Bengal
+581,24,Male,Computer Science,2,Tamil Nadu
+582,22,Male,Biology,1,Tamil Nadu
+583,19,Male,Chemistry,4,Tamil Nadu
+584,23,Male,Mathematics,2,Uttar Pradesh
+585,25,Male,Economics,4,Delhi
+586,18,Male,Mechanical Engineering,4,Kerala
+587,20,Male,Economics,4,West Bengal
+588,25,Female,Computer Science,3,Delhi
+589,23,Male,Mathematics,2,Uttar Pradesh
+590,25,Male,Mechanical Engineering,3,Tamil Nadu
+591,25,Female,Computer Science,2,Kerala
+592,24,Female,Mechanical Engineering,1,Gujarat
+593,20,Male,Mechanical Engineering,3,Rajasthan
+594,19,Female,Civil Engineering,1,Maharashtra
+595,23,Female,Economics,1,Rajasthan
+596,23,Female,Chemistry,4,Madhya Pradesh
+597,22,Female,Electrical Engineering,2,Tamil Nadu
+598,18,Male,Civil Engineering,2,Maharashtra
+599,24,Male,Chemistry,4,Karnataka
+600,22,Male,Computer Science,3,West Bengal
+601,25,Male,Environmental Science,2,Karnataka
+602,19,Female,Civil Engineering,1,Maharashtra
+603,24,Female,Economics,1,West Bengal
+604,20,Male,Chemistry,4,Maharashtra
+605,22,Female,Biology,1,Karnataka
+606,24,Male,Environmental Science,3,Kerala
+607,19,Male,Civil Engineering,3,Karnataka
+608,19,Female,Physics,4,Delhi
+609,20,Male,Mathematics,1,Kerala
+610,24,Female,Physics,2,Kerala
+611,25,Male,Chemistry,2,Kerala
+612,24,Female,Biology,1,Gujarat
+613,22,Male,Civil Engineering,1,Karnataka
+614,25,Male,Electrical Engineering,4,Kerala
+615,19,Female,Physics,4,Karnataka
+616,20,Female,Chemistry,1,Rajasthan
+617,25,Female,Electrical Engineering,2,Madhya Pradesh
+618,25,Male,Mathematics,3,Madhya Pradesh
+619,20,Female,Biology,1,Kerala
+620,21,Male,Mechanical Engineering,4,West Bengal
+621,19,Female,Computer Science,2,Rajasthan
+622,24,Male,Mechanical Engineering,3,Kerala
+623,19,Male,Mathematics,4,Madhya Pradesh
+624,23,Male,Environmental Science,3,Kerala
+625,21,Female,Computer Science,3,Maharashtra
+626,20,Male,Chemistry,2,Uttar Pradesh
+627,25,Female,Physics,1,Kerala
+628,19,Male,Civil Engineering,4,Kerala
+629,20,Female,Mathematics,2,Gujarat
+630,22,Female,Biology,1,West Bengal
+631,21,Male,Electrical Engineering,3,Rajasthan
+632,23,Female,Civil Engineering,2,West Bengal
+633,24,Male,Electrical Engineering,2,Gujarat
+634,20,Male,Environmental Science,2,Madhya Pradesh
+635,18,Male,Biology,4,Tamil Nadu
+636,22,Female,Physics,2,West Bengal
+637,18,Female,Environmental Science,4,Tamil Nadu
+638,25,Female,Civil Engineering,1,Delhi
+639,22,Male,Mathematics,4,Kerala
+640,21,Female,Biology,3,Uttar Pradesh
+641,25,Female,Chemistry,4,West Bengal
+642,19,Male,Chemistry,4,Maharashtra
+643,23,Male,Mechanical Engineering,4,Kerala
+644,21,Female,Biology,1,Uttar Pradesh
+645,24,Female,Biology,1,Kerala
+646,23,Female,Economics,2,West Bengal
+647,25,Female,Environmental Science,3,West Bengal
+648,20,Male,Economics,1,Madhya Pradesh
+649,22,Female,Economics,4,Madhya Pradesh
+650,18,Male,Chemistry,2,Kerala
+651,23,Female,Physics,3,West Bengal
+652,20,Male,Electrical Engineering,3,Maharashtra
+653,18,Female,Biology,1,West Bengal
+654,21,Male,Electrical Engineering,4,Rajasthan
+655,21,Female,Mechanical Engineering,1,Uttar Pradesh
+656,18,Male,Biology,2,Kerala
+657,20,Female,Electrical Engineering,4,Uttar Pradesh
+658,18,Male,Biology,4,West Bengal
+659,21,Female,Mathematics,4,Rajasthan
+660,23,Male,Environmental Science,2,Karnataka
+661,25,Female,Chemistry,4,Madhya Pradesh
+662,20,Male,Economics,1,Rajasthan
+663,23,Female,Economics,3,Delhi
+664,21,Male,Economics,1,Karnataka
+665,23,Male,Civil Engineering,1,Kerala
+666,21,Male,Economics,1,Delhi
+667,22,Male,Economics,1,Uttar Pradesh
+668,24,Male,Computer Science,3,Delhi
+669,18,Male,Mathematics,2,Gujarat
+670,18,Female,Chemistry,2,Karnataka
+671,25,Male,Electrical Engineering,3,Delhi
+672,18,Male,Environmental Science,1,West Bengal
+673,20,Female,Physics,2,Karnataka
+674,18,Female,Economics,4,Delhi
+675,20,Female,Mathematics,3,Tamil Nadu
+676,18,Female,Physics,4,Madhya Pradesh
+677,24,Female,Mechanical Engineering,1,Uttar Pradesh
+678,24,Female,Electrical Engineering,2,Karnataka
+679,25,Male,Mathematics,4,Delhi
+680,19,Female,Biology,4,Gujarat
+681,23,Male,Electrical Engineering,2,West Bengal
+682,25,Male,Biology,2,Tamil Nadu
+683,24,Male,Biology,3,Madhya Pradesh
+684,23,Male,Chemistry,4,Gujarat
+685,24,Male,Physics,4,Gujarat
+686,24,Female,Mathematics,3,Delhi
+687,22,Male,Electrical Engineering,3,West Bengal
+688,19,Female,Mathematics,1,Karnataka
+689,22,Female,Economics,4,Gujarat
+690,25,Female,Civil Engineering,4,Madhya Pradesh
+691,25,Female,Electrical Engineering,3,Karnataka
+692,22,Female,Physics,4,Rajasthan
+693,20,Male,Economics,1,Uttar Pradesh
+694,21,Female,Chemistry,3,Rajasthan
+695,21,Male,Environmental Science,2,Maharashtra
+696,19,Female,Computer Science,1,Tamil Nadu
+697,18,Female,Chemistry,2,Madhya Pradesh
+698,19,Male,Chemistry,2,Maharashtra
+699,20,Female,Physics,1,Tamil Nadu
+700,20,Male,Physics,1,Karnataka
+701,21,Female,Biology,3,Madhya Pradesh
+702,18,Female,Computer Science,3,Uttar Pradesh
+703,18,Female,Environmental Science,2,West Bengal
+704,22,Male,Chemistry,3,Kerala
+705,20,Male,Physics,2,Tamil Nadu
+706,24,Male,Physics,1,Madhya Pradesh
+707,24,Male,Economics,4,Karnataka
+708,22,Male,Environmental Science,3,Maharashtra
+709,20,Male,Civil Engineering,3,Gujarat
+710,18,Female,Civil Engineering,1,Tamil Nadu
+711,25,Female,Physics,2,West Bengal
+712,23,Female,Mechanical Engineering,1,Maharashtra
+713,20,Female,Environmental Science,4,Kerala
+714,20,Female,Electrical Engineering,2,West Bengal
+715,22,Male,Computer Science,2,Maharashtra
+716,18,Female,Civil Engineering,1,Madhya Pradesh
+717,21,Male,Environmental Science,4,Gujarat
+718,22,Male,Computer Science,4,Kerala
+719,19,Female,Environmental Science,4,Kerala
+720,21,Female,Environmental Science,2,Maharashtra
+721,23,Female,Biology,1,Delhi
+722,21,Male,Electrical Engineering,4,Maharashtra
+723,19,Male,Chemistry,4,Karnataka
+724,22,Male,Mathematics,1,Delhi
+725,20,Male,Environmental Science,1,Madhya Pradesh
+726,20,Female,Computer Science,4,Tamil Nadu
+727,20,Female,Chemistry,1,Tamil Nadu
+728,20,Male,Mathematics,3,Rajasthan
+729,22,Female,Biology,3,Delhi
+730,24,Female,Mechanical Engineering,2,Kerala
+731,20,Male,Chemistry,3,Gujarat
+732,22,Male,Computer Science,1,West Bengal
+733,22,Female,Computer Science,3,Madhya Pradesh
+734,23,Male,Economics,2,Delhi
+735,23,Male,Economics,1,Karnataka
+736,25,Male,Mathematics,4,Delhi
+737,19,Female,Computer Science,4,Tamil Nadu
+738,20,Male,Environmental Science,2,Uttar Pradesh
+739,22,Female,Electrical Engineering,4,Rajasthan
+740,18,Female,Environmental Science,4,Delhi
+741,22,Male,Environmental Science,4,Maharashtra
+742,21,Male,Physics,4,Kerala
+743,20,Female,Physics,1,Delhi
+744,21,Female,Civil Engineering,3,Maharashtra
+745,22,Male,Electrical Engineering,1,Maharashtra
+746,22,Male,Computer Science,2,West Bengal
+747,24,Female,Mathematics,3,Rajasthan
+748,21,Male,Biology,2,Kerala
+749,19,Male,Chemistry,2,Kerala
+750,25,Female,Physics,3,Kerala
+751,25,Female,Mathematics,2,Delhi
+752,25,Female,Economics,1,Maharashtra
+753,19,Female,Economics,4,Maharashtra
+754,19,Male,Environmental Science,2,Karnataka
+755,24,Male,Chemistry,3,West Bengal
+756,18,Male,Physics,2,Tamil Nadu
+757,23,Female,Economics,2,Delhi
+758,19,Female,Mechanical Engineering,4,Uttar Pradesh
+759,19,Female,Mechanical Engineering,1,Delhi
+760,19,Male,Electrical Engineering,4,Gujarat
+761,20,Male,Mechanical Engineering,2,West Bengal
+762,19,Female,Environmental Science,2,Kerala
+763,23,Male,Electrical Engineering,4,West Bengal
+764,22,Male,Computer Science,3,West Bengal
+765,19,Male,Biology,1,West Bengal
+766,25,Male,Physics,4,West Bengal
+767,21,Female,Biology,2,Uttar Pradesh
+768,18,Male,Civil Engineering,2,Delhi
+769,25,Female,Physics,3,Maharashtra
+770,22,Male,Mechanical Engineering,3,Delhi
+771,24,Male,Electrical Engineering,3,West Bengal
+772,25,Female,Computer Science,4,Delhi
+773,21,Male,Computer Science,4,Kerala
+774,18,Male,Chemistry,4,Gujarat
+775,18,Male,Chemistry,4,West Bengal
+776,18,Female,Electrical Engineering,4,West Bengal
+777,24,Female,Biology,1,Gujarat
+778,22,Female,Economics,3,Karnataka
+779,21,Male,Electrical Engineering,2,Tamil Nadu
+780,21,Female,Electrical Engineering,2,Rajasthan
+781,22,Female,Civil Engineering,4,Kerala
+782,23,Female,Civil Engineering,4,Rajasthan
+783,22,Female,Environmental Science,1,Uttar Pradesh
+784,24,Male,Economics,2,Delhi
+785,20,Male,Physics,4,Rajasthan
+786,18,Male,Electrical Engineering,3,Tamil Nadu
+787,18,Male,Mechanical Engineering,1,Tamil Nadu
+788,20,Female,Physics,4,West Bengal
+789,21,Male,Computer Science,4,West Bengal
+790,19,Male,Civil Engineering,1,Delhi
+791,18,Male,Chemistry,3,Kerala
+792,19,Male,Electrical Engineering,2,Rajasthan
+793,25,Male,Environmental Science,4,Tamil Nadu
+794,24,Male,Chemistry,3,Kerala
+795,19,Male,Electrical Engineering,3,Delhi
+796,25,Male,Civil Engineering,1,Madhya Pradesh
+797,18,Male,Mechanical Engineering,4,Delhi
+798,25,Female,Chemistry,1,Gujarat
+799,25,Female,Biology,4,Madhya Pradesh
+800,25,Male,Mechanical Engineering,2,Rajasthan
+801,21,Female,Chemistry,3,Delhi
+802,25,Male,Electrical Engineering,3,Tamil Nadu
+803,20,Male,Mathematics,2,Rajasthan
+804,20,Female,Mathematics,1,Gujarat
+805,22,Male,Mechanical Engineering,2,Delhi
+806,19,Male,Biology,4,Karnataka
+807,18,Male,Economics,1,Madhya Pradesh
+808,20,Male,Mechanical Engineering,3,Maharashtra
+809,23,Male,Chemistry,4,Uttar Pradesh
+810,23,Male,Electrical Engineering,1,Maharashtra
+811,22,Female,Computer Science,4,Gujarat
+812,24,Male,Electrical Engineering,3,Gujarat
+813,19,Female,Environmental Science,3,West Bengal
+814,23,Male,Biology,4,Tamil Nadu
+815,22,Female,Electrical Engineering,3,Karnataka
+816,21,Female,Mechanical Engineering,4,West Bengal
+817,24,Male,Mechanical Engineering,4,Gujarat
+818,24,Male,Mechanical Engineering,4,Madhya Pradesh
+819,22,Female,Computer Science,4,Delhi
+820,21,Male,Physics,4,Karnataka
+821,19,Male,Environmental Science,3,Uttar Pradesh
+822,25,Male,Electrical Engineering,1,Kerala
+823,20,Male,Chemistry,2,Kerala
+824,19,Male,Chemistry,2,Madhya Pradesh
+825,22,Female,Physics,3,Karnataka
+826,24,Male,Civil Engineering,4,Kerala
+827,20,Female,Electrical Engineering,3,West Bengal
+828,21,Male,Environmental Science,4,Gujarat
+829,18,Male,Chemistry,2,Gujarat
+830,20,Female,Civil Engineering,4,Gujarat
+831,25,Female,Environmental Science,1,Rajasthan
+832,22,Female,Mechanical Engineering,2,Kerala
+833,20,Male,Economics,4,West Bengal
+834,24,Female,Economics,2,Rajasthan
+835,22,Male,Mathematics,1,Uttar Pradesh
+836,19,Male,Mathematics,3,Gujarat
+837,24,Male,Economics,2,Maharashtra
+838,24,Male,Physics,2,West Bengal
+839,22,Female,Economics,1,Maharashtra
+840,18,Male,Electrical Engineering,2,Kerala
+841,25,Male,Mechanical Engineering,1,Gujarat
+842,18,Male,Physics,4,Delhi
+843,22,Male,Mathematics,4,Tamil Nadu
+844,21,Male,Computer Science,1,Delhi
+845,19,Female,Civil Engineering,3,Rajasthan
+846,25,Female,Civil Engineering,2,West Bengal
+847,22,Female,Mathematics,4,West Bengal
+848,20,Female,Economics,2,Rajasthan
+849,19,Female,Mechanical Engineering,2,Uttar Pradesh
+850,21,Female,Computer Science,2,Uttar Pradesh
+851,18,Male,Biology,2,Uttar Pradesh
+852,19,Male,Computer Science,4,Maharashtra
+853,19,Male,Computer Science,4,Delhi
+854,24,Female,Computer Science,2,Karnataka
+855,23,Female,Biology,3,Rajasthan
+856,20,Female,Chemistry,2,Gujarat
+857,19,Female,Computer Science,1,Tamil Nadu
+858,21,Male,Chemistry,3,Delhi
+859,19,Male,Physics,4,Gujarat
+860,22,Female,Electrical Engineering,2,Rajasthan
+861,18,Female,Economics,3,Gujarat
+862,23,Female,Electrical Engineering,4,Karnataka
+863,24,Male,Environmental Science,2,West Bengal
+864,24,Female,Computer Science,3,Kerala
+865,21,Male,Computer Science,3,Kerala
+866,23,Male,Electrical Engineering,4,Madhya Pradesh
+867,22,Female,Chemistry,2,Gujarat
+868,18,Male,Civil Engineering,2,Kerala
+869,18,Female,Mathematics,2,Maharashtra
+870,25,Male,Electrical Engineering,2,Tamil Nadu
+871,21,Male,Mechanical Engineering,2,Madhya Pradesh
+872,19,Male,Economics,1,Gujarat
+873,21,Female,Biology,2,Karnataka
+874,22,Male,Mathematics,3,West Bengal
+875,20,Female,Mathematics,3,Tamil Nadu
+876,20,Male,Chemistry,1,Uttar Pradesh
+877,24,Male,Economics,2,Maharashtra
+878,20,Male,Electrical Engineering,3,West Bengal
+879,19,Female,Computer Science,1,Gujarat
+880,22,Female,Civil Engineering,3,Maharashtra
+881,20,Female,Civil Engineering,1,Madhya Pradesh
+882,19,Male,Computer Science,2,Kerala
+883,18,Male,Biology,2,Tamil Nadu
+884,20,Male,Biology,4,West Bengal
+885,21,Female,Civil Engineering,3,Gujarat
+886,18,Male,Physics,3,Uttar Pradesh
+887,18,Female,Environmental Science,4,Rajasthan
+888,22,Male,Civil Engineering,2,Rajasthan
+889,22,Male,Computer Science,3,Rajasthan
+890,24,Male,Chemistry,1,Rajasthan
+891,23,Male,Physics,4,Rajasthan
+892,25,Male,Electrical Engineering,2,Delhi
+893,25,Female,Economics,2,Uttar Pradesh
+894,21,Female,Civil Engineering,2,Kerala
+895,21,Female,Computer Science,2,Maharashtra
+896,25,Female,Computer Science,1,Madhya Pradesh
+897,19,Male,Computer Science,4,Uttar Pradesh
+898,20,Male,Mechanical Engineering,1,Kerala
+899,19,Female,Computer Science,4,Rajasthan
+900,22,Male,Mechanical Engineering,2,Delhi
+901,19,Female,Computer Science,2,Kerala
+902,24,Female,Economics,1,Tamil Nadu
+903,24,Male,Biology,2,Madhya Pradesh
+904,21,Male,Computer Science,4,Madhya Pradesh
+905,21,Male,Mechanical Engineering,1,Maharashtra
+906,25,Male,Economics,1,Kerala
+907,22,Male,Civil Engineering,2,Uttar Pradesh
+908,20,Male,Chemistry,2,Madhya Pradesh
+909,24,Male,Mathematics,4,West Bengal
+910,21,Female,Physics,1,Gujarat
+911,21,Female,Physics,1,Kerala
+912,22,Female,Chemistry,1,Rajasthan
+913,20,Female,Economics,1,Karnataka
+914,24,Male,Physics,4,Kerala
+915,19,Male,Mathematics,1,Uttar Pradesh
+916,21,Male,Computer Science,3,Kerala
+917,20,Male,Mathematics,2,West Bengal
+918,25,Male,Computer Science,4,Gujarat
+919,23,Female,Economics,1,Kerala
+920,18,Female,Computer Science,3,Maharashtra
+921,20,Female,Biology,4,West Bengal
+922,21,Male,Biology,2,Maharashtra
+923,25,Male,Chemistry,1,Gujarat
+924,21,Female,Economics,1,Uttar Pradesh
+925,23,Female,Environmental Science,1,West Bengal
+926,25,Male,Mechanical Engineering,3,Delhi
+927,18,Female,Biology,1,West Bengal
+928,23,Female,Mathematics,2,Delhi
+929,22,Female,Mechanical Engineering,2,Rajasthan
+930,24,Male,Chemistry,4,Kerala
+931,24,Female,Electrical Engineering,1,Madhya Pradesh
+932,21,Male,Biology,1,West Bengal
+933,22,Male,Mathematics,2,Madhya Pradesh
+934,23,Female,Physics,3,Tamil Nadu
+935,21,Male,Chemistry,1,Delhi
+936,19,Male,Environmental Science,1,Maharashtra
+937,22,Male,Civil Engineering,4,Tamil Nadu
+938,25,Male,Biology,1,Kerala
+939,20,Male,Economics,3,West Bengal
+940,25,Female,Economics,3,West Bengal
+941,24,Female,Civil Engineering,4,Madhya Pradesh
+942,20,Female,Mathematics,3,Maharashtra
+943,24,Female,Civil Engineering,2,West Bengal
+944,19,Male,Economics,4,Delhi
+945,24,Male,Biology,3,Karnataka
+946,22,Female,Economics,1,Delhi
+947,24,Female,Environmental Science,4,Kerala
+948,21,Male,Computer Science,4,Maharashtra
+949,25,Female,Economics,4,Karnataka
+950,22,Male,Economics,3,Delhi
+951,22,Female,Computer Science,1,Rajasthan
+952,19,Male,Mathematics,3,Delhi
+953,25,Male,Computer Science,4,Kerala
+954,20,Male,Computer Science,2,Karnataka
+955,23,Female,Economics,1,Tamil Nadu
+956,21,Male,Chemistry,3,Kerala
+957,24,Male,Mechanical Engineering,3,West Bengal
+958,18,Male,Civil Engineering,2,West Bengal
+959,22,Female,Mechanical Engineering,3,Karnataka
+960,24,Male,Civil Engineering,3,Uttar Pradesh
+961,18,Female,Environmental Science,3,Gujarat
+962,22,Male,Economics,4,Kerala
+963,23,Female,Electrical Engineering,4,Kerala
+964,21,Female,Computer Science,1,Rajasthan
+965,19,Male,Environmental Science,4,Kerala
+966,21,Male,Mathematics,2,Maharashtra
+967,20,Female,Biology,3,Gujarat
+968,18,Male,Biology,2,Maharashtra
+969,20,Male,Mathematics,1,Gujarat
+970,20,Female,Civil Engineering,1,Delhi
+971,18,Male,Electrical Engineering,2,Karnataka
+972,23,Female,Civil Engineering,1,Delhi
+973,20,Female,Computer Science,1,Gujarat
+974,22,Female,Mathematics,3,Maharashtra
+975,23,Female,Environmental Science,1,Madhya Pradesh
+976,19,Male,Economics,1,Maharashtra
+977,18,Male,Physics,4,Uttar Pradesh
+978,22,Male,Biology,1,Uttar Pradesh
+979,25,Female,Biology,4,Tamil Nadu
+980,22,Female,Biology,2,West Bengal
+981,24,Male,Economics,4,Maharashtra
+982,22,Female,Physics,2,Tamil Nadu
+983,24,Female,Environmental Science,4,Maharashtra
+984,24,Male,Mathematics,3,Maharashtra
+985,22,Male,Physics,3,Gujarat
+986,20,Male,Computer Science,4,Madhya Pradesh
+987,23,Female,Environmental Science,2,Maharashtra
+988,24,Female,Environmental Science,1,Delhi
+989,22,Male,Economics,1,Karnataka
+990,23,Male,Chemistry,1,Delhi
+991,24,Female,Civil Engineering,3,West Bengal
+992,25,Male,Mathematics,1,Kerala
+993,24,Male,Mechanical Engineering,1,Delhi
+994,22,Female,Biology,1,Rajasthan
+995,21,Female,Mathematics,1,West Bengal
+996,25,Male,Civil Engineering,4,Kerala
+997,22,Male,Physics,3,Karnataka
+998,19,Male,Biology,4,Maharashtra
+999,22,Female,Mechanical Engineering,1,Kerala
+1000,24,Female,Economics,1,West Bengal
